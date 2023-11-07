@@ -18,3 +18,7 @@ Currently, I am a part-time software engineer intern at [Megvii](https://en.megv
 
 # Publications
 
+Yining Hong, Fanchao Qi, Maosong Sun. **Two Heads Are Better Than One: Exploiting Both Sequence and Graph Models in AMR-To-Text Generation**. Submitted to *The Twelfth International Conference on Learning Representations (ICLR)*, 2024. [\[Paper\]](https://openreview.net/forum?id=61DYdiyQqk)
+
+# Teaching Experience
+I am a volunteer teaching assistant (outstanding level) at the [Center for Student Learning and Development](https://learning.tsinghua.edu.cn/zxgk/ywjs.htm) at Tsinghua University, an association that offers drop-in tutoring for STEM courses. I assist students with computer science courses including data structures & algorithms and object-oriented programmings.
