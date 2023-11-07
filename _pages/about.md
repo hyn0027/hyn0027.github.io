@@ -14,4 +14,7 @@ I served as an undergraduate research assistant at [THUNLP](https://nlp.csai.tsi
 
 I also undertook a summer research internship at CMU's [Software and Societal Systems Department](https://s3d.cmu.edu/), working under the joint guidance of Prof. [Christian Kästner](https://www.cs.cmu.edu/~ckaestne/) and Prof. [Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherryw/). Here I conducted research on LLM-enabled automated data slicing, a vital aspect of SE4AI.
 
-Currently, I am a part-time software engineer intern at [Megvii](https://en.megvii.com/), a leading Chinese AI-software company. I work with both research scientists and software engineers to develop automonous driving systems with complex integrated AI components. My objective in this internship is to further deepen my understanding of SE4AI.
+Currently, I am a part-time software engineer intern at [Megvii](https://en.megvii.com/), a leading Chinese AI-software company. I work with both data scientists and software engineers to develop automonous driving systems with complex integrated AI components. My objective in this internship is to further deepen my understanding of SE4AI.
+
+# Publications
+
