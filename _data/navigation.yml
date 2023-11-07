@@ -1,7 +1,4 @@
 # main links links
 main:
-  - title: "Teaching"
-    url: /teaching/
-    
   - title: "CV"
-    url: /cv/
+    url: http://hyn0027.github.io/files/CV.pdf
