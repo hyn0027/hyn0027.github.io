@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior undergraduate student at [Tsinghua University](https://www.tsinghua.edu.cn/en/), enrolled in a dual-degree program in both **computer science** through the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) and **finance** via the  [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/).
+I am a senior undergraduate student at [Tsinghua University](https://www.tsinghua.edu.cn/en/), enrolled in a dual-degree program in both **computer science** through the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) and **finance** via the  [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/).
 
 I served as an undergraduate research assistant at [THUNLP](https://nlp.csai.tsinghua.edu.cn/), under the guidance of Prof. [Maosong Sun](https://scholar.google.com.au/citations?hl=en&user=zIgT0HMAAAAJ). My work primarily focused on graph-to-text generation.
 
