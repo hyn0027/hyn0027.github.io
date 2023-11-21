@@ -10,6 +10,7 @@ redirect_from:
 
 I am a senior undergraduate student at [Tsinghua University](https://www.tsinghua.edu.cn/en/), enrolled in a dual-degree program in both **computer science** through the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) and **finance** via the  [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/).
 
+# Research & Industry Experience
 I served as an undergraduate research assistant at [THUNLP](https://nlp.csai.tsinghua.edu.cn/), under the guidance of Prof. [Maosong Sun](https://scholar.google.com.au/citations?hl=en&user=zIgT0HMAAAAJ). My work primarily focused on graph-to-text generation.
 
 I also undertook a summer research internship at CMU's [Software and Societal Systems Department](https://s3d.cmu.edu/), working under the joint guidance of Prof. [Christian Kästner](https://www.cs.cmu.edu/~ckaestne/) and Prof. [Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherryw/). Here I conducted research on LLM-enabled automated data slicing, a vital aspect of SE4AI.
