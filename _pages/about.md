@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student at [Tsinghua University](https://www.tsinghua.edu.cn/en/), enrolled in a dual-degree program in both **computer science** through the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) and **finance** via the  [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/).
+I am a first year PhD student at [Software and Societal Systems Department](https://s3d.cmu.edu/), [School of Computer Science](https://www.cs.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/).
 
-# Research & Industry Experience
+Before joining CMU, I received my B.Eng. in Computer Science at the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) and B.Ec. in Finance at the [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I was fortunate to be advised by Prof. [Maosong Sun](https://scholar.google.com.au/citations?hl=en&user=zIgT0HMAAAAJ) and Prof. [Junliang Xing](https://pi.cs.tsinghua.edu.cn/lab/people/jlxing/en/).
+
+I also undertook a summer research internship at CMU's [Software and Societal Systems Department](https://s3d.cmu.edu/), co-advised by Prof. [Christian Kästner](https://www.cs.cmu.edu/~ckaestne/) and Prof. [Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherryw/).
+
+<!-- # Research & Industry Experience
 I served as an undergraduate research assistant at [THUNLP](https://nlp.csai.tsinghua.edu.cn/), under the guidance of Prof. [Maosong Sun](https://scholar.google.com.au/citations?hl=en&user=zIgT0HMAAAAJ). My work primarily focused on graph-to-text generation.
 
 I also undertook a summer research internship at CMU's [Software and Societal Systems Department](https://s3d.cmu.edu/), working under the joint guidance of Prof. [Christian Kästner](https://www.cs.cmu.edu/~ckaestne/) and Prof. [Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherryw/). Here I conducted research on LLM-enabled automated data slicing, a vital aspect of SE4AI.
@@ -22,4 +26,4 @@ Currently, I am a part-time software engineer intern at [Megvii](https://en.megv
 Yining Hong, Fanchao Qi, Maosong Sun. **Two Heads Are Better Than One: Exploiting Both Sequence and Graph Models in AMR-To-Text Generation**. Submitted to *The Twelfth International Conference on Learning Representations (ICLR)*, 2024. [\[Paper\]](https://openreview.net/forum?id=61DYdiyQqk)
 
 # Teaching Experience
-I am a volunteer teaching assistant (outstanding level) at the [Center for Student Learning and Development](https://learning.tsinghua.edu.cn/zxgk/ywjs.htm) at Tsinghua University, an association that offers drop-in tutoring for STEM courses. I assist students with computer science courses including data structures & algorithms and object-oriented programmings.
+I am a volunteer teaching assistant (outstanding level) at the [Center for Student Learning and Development](https://learning.tsinghua.edu.cn/zxgk/ywjs.htm) at Tsinghua University, an association that offers drop-in tutoring for STEM courses. I assist students with computer science courses including data structures & algorithms and object-oriented programmings. -->
