@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,11 +19,13 @@ I served as an undergraduate research assistant at [THUNLP](https://nlp.csai.tsi
 
 I also undertook a summer research internship at CMU's [Software and Societal Systems Department](https://s3d.cmu.edu/), working under the joint guidance of Prof. [Christian Kästner](https://www.cs.cmu.edu/~ckaestne/) and Prof. [Sherry Tongshuang Wu](https://www.cs.cmu.edu/~sherryw/). Here I conducted research on LLM-enabled automated data slicing, a vital aspect of SE4AI.
 
-Currently, I am a part-time software engineer intern at [Megvii](https://en.megvii.com/), a leading Chinese AI-software company. I work with both data scientists and software engineers to develop autonomous driving systems with complex integrated AI components. My objective in this internship is to further deepen my understanding how people build AI-integrated software and the existing problems in this process.
+Currently, I am a part-time software engineer intern at [Megvii](https://en.megvii.com/), a leading Chinese AI-software company. I work with both data scientists and software engineers to develop autonomous driving systems with complex integrated AI components. My objective in this internship is to further deepen my understanding how people build AI-integrated software and the existing problems in this process. -->
 
 # Publications
 
-Yining Hong, Fanchao Qi, Maosong Sun. **Two Heads Are Better Than One: Exploiting Both Sequence and Graph Models in AMR-To-Text Generation**. Submitted to *The Twelfth International Conference on Learning Representations (ICLR)*, 2024. [\[Paper\]](https://openreview.net/forum?id=61DYdiyQqk)
+Chenyang Yang, **Yining Hong**, Grace Lewis, Tongshuang Wu, and Christian Kästner. What Is Wrong with My Model? Identifying Systematic Problems with Semantic Data Slicing. In *Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE)*, Los Alamitos, CA: IEEE Computer Society, November 2024.
+
+**Yining Hong**, Fanchao Qi, Maosong Sun. **Two Heads Are Better Than One: Exploiting Both Sequence and Graph Models in AMR-To-Text Generation**. [\[Paper\]](https://openreview.net/forum?id=fxM13uraI1)
 
 # Teaching Experience
-I am a volunteer teaching assistant (outstanding level) at the [Center for Student Learning and Development](https://learning.tsinghua.edu.cn/zxgk/ywjs.htm) at Tsinghua University, an association that offers drop-in tutoring for STEM courses. I assist students with computer science courses including data structures & algorithms and object-oriented programmings. -->
+I was a volunteer teaching assistant at the [Center for Student Learning and Development](https://learning.tsinghua.edu.cn/zxgk/ywjs.htm) at Tsinghua University, an association that offers drop-in tutoring for STEM courses. I assisted students with computer science courses including data structures & algorithms and object-oriented programmings.
