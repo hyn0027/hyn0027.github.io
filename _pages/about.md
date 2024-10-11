@@ -5,7 +5,9 @@ excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
+  - /About/
   - /about.html
+  - /About.html
 ---
 
 I am a first year PhD student at [Software and Societal Systems Department](https://s3d.cmu.edu/), [School of Computer Science](https://www.cs.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/), co-advised by [Christian Kästner](https://www.cs.cmu.edu/~ckaestne/) and [Chris Timperley](https://chris.timperley.info/).

@@ -2,11 +2,10 @@
 permalink: /misc/
 title: "Misc"
 author_profile: true
-redirect_from: 
+redirect_from:
+  - /misc.html
   - /Misc/
-  - /misc.html/
+  - /Misc.html
 ---
 
-123
-
-test
+tbd
