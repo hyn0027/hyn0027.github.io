@@ -4,6 +4,4 @@ title: "Misc"
 author_profile: true
 ---
 
-# Misc
-
 test

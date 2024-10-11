@@ -2,3 +2,5 @@
 main:
   - title: "CV"
     url: http://hyn0027.github.io/files/CV.pdf
+  - title: "Misc"
+    url: /misc/
