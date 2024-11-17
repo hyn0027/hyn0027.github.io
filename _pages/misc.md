@@ -10,7 +10,8 @@ redirect_from:
 
 ## Live music events attended
 
-
+2024/01/09@Beijing MAO Livehouse: World's End Girlfriend "Dance Alone" Asia Tour;
+*2024/01/09@北京MAO Livehouse：World's End Girlfriend "Dance Alone" 亚洲巡演*
 
 2023/11/03@Beijing Jiangjinjiu OMNI Space: God is an Astronaut Asia Tour;
 *2023/11/03@北京疆进酒 OMNI Space: God is an Astronaut 亚洲巡演*
