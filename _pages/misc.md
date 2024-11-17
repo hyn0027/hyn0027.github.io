@@ -10,6 +10,12 @@ redirect_from:
 
 ## Live music events attended
 
+2024/04/02@Beijing Fulang Livehouse: Deca joins "Heaven and Dirt" 2024 Tour;
+*2024/04/02@北京福浪 Livehouse：Deca joins "Heaven and Dirt" 2024巡演*
+
+2024/03/08@Beijing Fulang Livehouse: Sparrow 16th Anniversary Tour;
+*2024/03/08@北京福浪 Livehouse：文雀16周年巡演*
+
 2024/01/09@Beijing MAO Livehouse: World's End Girlfriend "Dance Alone" Asia Tour;
 *2024/01/09@北京MAO Livehouse：World's End Girlfriend "Dance Alone" 亚洲巡演*
 
