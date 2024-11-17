@@ -10,7 +10,7 @@ redirect_from:
 
 ## Favorite Bands
 
-Alcest, Lacrimosa, World's End Girlfriend, 葬尸湖(Zuriaake), ChiliChill, 血森林 (Bloody Woods), Ashram, 文雀 (Sparrow), 惘闻 (Wang Wen), Dopamine, Sopor Aeternus & the Ensemble of Shadows, She Her Her Hers, deca joins, KAUAN, 缺省 (Default), Death in June, Current 93, Dead Can Dance, Heretoir, H.E.R.R., Die Form, Elend, sToa, God is an Astronaut, 万能青年旅店 (Omnipotent Youth Society), toe, MONO, Epitimia, April Rain, There's a Light
+Alcest, Lacrimosa, World's End Girlfriend, 葬尸湖(Zuriaake), ChiliChill, 血森林 (Bloody Woods), Ashram, 文雀 (Sparrow), 惘闻 (Wang Wen), Dopamine, Sopor Aeternus & the Ensemble of Shadows, She Her Her Hers, deca joins, KAUAN, 缺省 (Default), Death in June, Current 93, Dead Can Dance, Heretoir, H.E.R.R., Die Form, Elend, sToa, God is an Astronaut, 万能青年旅店 (Omnipotent Youth Society), toe, MONO, Epitimia, April Rain, There's A Light
 
 ## Live Attended
 
