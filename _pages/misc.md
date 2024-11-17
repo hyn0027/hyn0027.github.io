@@ -10,10 +10,11 @@ redirect_from:
 
 ## Favorite Bands
 
+Alcest, Lacrimosa, World's End Girlfriend, 葬尸湖(Zuriaake), ChiliChill, 血森林 (Bloody Woods), Ashram, 文雀 (Sparrow), 惘闻 (Wang Wen), Dopamine, Sopor Aeternus & the Ensemble of Shadows, She Her Her Hers, deca joins, KAUAN, 缺省 (Default), Death in June, Current 93, Dead Can Dance, Heretoir, H.E.R.R., Die Form, Elend, sToa, God is an Astronaut, 万能青年旅店 (Omnipotent Youth Society), toe, MONO, Epitimia, April Rain, There's a Light
 
 ## Live Attended
 
-2024/06/17@Beijing Fulang Livehouse: Wangwen "All Yesterday's Parties" 25th Anniversary China Tour;
+2024/06/17@Beijing Fulang Livehouse: Wang Wen "All Yesterday's Parties" 25th Anniversary China Tour;
 *2024/06/17@北京福浪 Livehouse：惘闻“昨日的聚会”25周年中国巡演*
 
 2024/06/13@@Beijing Jiangjinjiu OMNI Space: Lacrimosa "Leidenschaft" China Tour 2024;
