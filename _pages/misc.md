@@ -8,7 +8,10 @@ redirect_from:
   - /Misc.html
 ---
 
-## Live music events attended
+## Favorite Bands
+
+
+## Live Attended
 
 2024/06/17@Beijing Fulang Livehouse: Wangwen "All Yesterday's Parties" 25th Anniversary China Tour;
 *2024/06/17@北京福浪 Livehouse：惘闻“昨日的聚会”25周年中国巡演*
@@ -19,8 +22,8 @@ redirect_from:
 2024/04/05@Beijing Jiangjinjiu OMNI Space: April Rain China Tour 2024;
 *2024/04/05@北京疆进酒 OMNI Space: April Rain 2024 中国巡演*
 
-2024/04/02@Beijing Fulang Livehouse: Deca joins "Heaven and Dirt" 2024 Tour;
-*2024/04/02@北京福浪 Livehouse：Deca joins "Heaven and Dirt" 2024巡演*
+2024/04/02@Beijing Fulang Livehouse: deca joins "Heaven and Dirt" 2024 Tour;
+*2024/04/02@北京福浪 Livehouse：deca joins "Heaven and Dirt" 2024巡演*
 
 2024/03/08@Beijing Fulang Livehouse: Sparrow 16th Anniversary Tour;
 *2024/03/08@北京福浪 Livehouse：文雀16周年巡演*
@@ -30,6 +33,9 @@ redirect_from:
 
 2023/11/03@Beijing Jiangjinjiu OMNI Space: God is an Astronaut Asia Tour;
 *2023/11/03@北京疆进酒 OMNI Space: God is an Astronaut 亚洲巡演*
+
+2023/09/30@Beijing: Cosmic Echo Music Festival - [No Translation], I Mean Us, Ghostly Kisses, Galdive, Hayd, deca joins;
+*2023/09/30@北京：宇宙岛音乐节 - 沉默橙，I Mean Us，Ghostly Kisses，Galdive，Hayd，deca joins*
 
 2023/05/21@Shanghai ModernSky Lab: ChiliChill 2023 tour;
 *2023/05/21@上海摩登天空：ChiliChill “每到夜里” 2023巡演*
