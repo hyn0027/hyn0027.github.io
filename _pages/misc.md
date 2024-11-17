@@ -10,6 +10,15 @@ redirect_from:
 
 ## Live music events attended
 
+2024/06/17@Beijing Fulang Livehouse: Wangwen "All Yesterday's Parties" 25th Anniversary China Tour;
+*2024/06/17@北京福浪 Livehouse：惘闻“昨日的聚会”25周年中国巡演*
+
+2024/06/13@@Beijing Jiangjinjiu OMNI Space: Lacrimosa "Leidenschaft" China Tour 2024;
+*2024/06/13@北京疆进酒 OMNI Space: Lacrimosa “激情” 2024 中国巡演*
+
+2024/04/05@Beijing Jiangjinjiu OMNI Space: April Rain China Tour 2024;
+*2024/04/05@北京疆进酒 OMNI Space: April Rain 2024 中国巡演*
+
 2024/04/02@Beijing Fulang Livehouse: Deca joins "Heaven and Dirt" 2024 Tour;
 *2024/04/02@北京福浪 Livehouse：Deca joins "Heaven and Dirt" 2024巡演*
 
@@ -25,7 +34,7 @@ redirect_from:
 2023/05/21@Shanghai ModernSky Lab: ChiliChill 2023 tour;
 *2023/05/21@上海摩登天空：ChiliChill “每到夜里” 2023巡演*
 
-2023/04/05@Beijing Dongshi OMNI Club: ChiliChill, Morning Aura;
+2023/04/05@Beijing Dongshi OMNI Club: "Chili Soda" - ChiliChill, Morning Aura;
 *2023/04/05@北京东市 OMNI Club：“辣味苏打水” - ChiliChill，起床气*
 
 2023/03/28@Beijing MAO Livehouse: Brickleberry "Back To Stage" 2023 Tour;
