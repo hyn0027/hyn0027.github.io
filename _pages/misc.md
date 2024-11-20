@@ -12,6 +12,8 @@ redirect_from:
 
 Alcest, Lacrimosa, World's End Girlfriend, 葬尸湖(Zuriaake), ChiliChill, 血森林 (Bloody Woods), Ashram, 文雀 (Sparrow), 惘闻 (Wang Wen), Sonne Hagal, Dopamine, Sopor Aeternus & the Ensemble of Shadows, She Her Her Hers, deca joins, KAUAN, 缺省 (Default), Death in June, Current 93, Dead Can Dance, Heretoir, H.E.R.R., Die Form, Elend, sToa, God is an Astronaut, 万能青年旅店 (Omnipotent Youth Society), toe, MONO, Epitimia, April Rain, There's A Light
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7966BegBfkLv23vvqEjFt9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ## Live Attended
 
 2024/06/17@Beijing Fulang Livehouse: Wang Wen "All Yesterday's Parties" 25th Anniversary China Tour;
