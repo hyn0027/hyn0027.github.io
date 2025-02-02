@@ -18,9 +18,11 @@ I also undertook a summer research internship at CMU's [Software and Societal Sy
 
 # Publications
 
-Chenyang Yang, **Yining Hong**, Grace Lewis, Tongshuang Wu, and Christian Kästner. **What Is Wrong with My Model? Identifying Systematic Problems with Semantic Data Slicing**. In *Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE)*, Los Alamitos, CA: IEEE Computer Society, November 2024. [\[Paper\]](http://hyn0027.github.io/files/What_is_Wrong_with_My_Model.pdf)
+**Yining Hong**, Christopher S. Timperley, Christian Kästner. **From Hazard Identification to Controller Design: Proactive and LLM-Supported Safety Engineering for ML-Powered Systems**. In *4th International Conference on AI Engineering – Software Engineering for AI*. [\[.pdf\]](http://hyn0027.github.io/files/From_Hazard_Identification_to_Controller_Design.pdf)
 
-**Yining Hong**, Fanchao Qi, Maosong Sun. **Two Heads Are Better Than One: Exploiting Both Sequence and Graph Models in AMR-To-Text Generation**. [\[Paper\]](http://hyn0027.github.io/files/DualGen.pdf)
+Chenyang Yang, **Yining Hong**, Grace Lewis, Tongshuang Wu, and Christian Kästner. **What Is Wrong with My Model? Identifying Systematic Problems with Semantic Data Slicing**. In *Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE)*, Los Alamitos, CA: IEEE Computer Society, November 2024. [\[.pdf\]](http://hyn0027.github.io/files/What_is_Wrong_with_My_Model.pdf)
+
+**Yining Hong**, Fanchao Qi, Maosong Sun. **Two Heads Are Better Than One: Exploiting Both Sequence and Graph Models in AMR-To-Text Generation**. [\[.pdf\]](http://hyn0027.github.io/files/DualGen.pdf)
 
 # Teaching Experience
 
