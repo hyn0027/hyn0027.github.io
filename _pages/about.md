@@ -10,7 +10,7 @@ redirect_from:
   - /About.html
 ---
 
-I am a first year PhD student at [Software and Societal Systems Department](https://s3d.cmu.edu/), [School of Computer Science](https://www.cs.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/), co-advised by [Christian Kästner](https://www.cs.cmu.edu/~ckaestne/) and [Chris Timperley](https://chris.timperley.info/).
+I am a first year PhD student at [Software and Societal Systems Department](https://s3d.cmu.edu/), [School of Computer Science](https://www.cs.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/), co-advised by [Christian Kästner](https://www.cs.cmu.edu/~ckaestne/) and [Chris Timperley](https://chris.timperley.info/). I work on safety and security for ML-enabled systems.
 
 Before joining CMU, I received my B.Eng. in Computer Science and B.Ec. in Economics and Finance at [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I was fortunate to be advised by Prof. [Maosong Sun](https://scholar.google.com.au/citations?hl=en&user=zIgT0HMAAAAJ) and Prof. [Junliang Xing](https://pi.cs.tsinghua.edu.cn/lab/people/jlxing/en/).
 
@@ -26,4 +26,4 @@ Chenyang Yang, **Yining Hong**, Grace Lewis, Tongshuang Wu, and Christian Kästn
 
 # Teaching Experience
 
-I was a volunteer teaching assistant at the [Center for Student Learning and Development](https://learning.tsinghua.edu.cn/zxgk/ywjs.htm) at Tsinghua University, an association that offers drop-in tutoring for STEM courses.
+I was a volunteer teaching assistant at the [Center for Student Learning and Development](https://learning.tsinghua.edu.cn/zxgk/ywjs.htm) at Tsinghua University. I offered drop-in tutoring for computer science and finance courses.
