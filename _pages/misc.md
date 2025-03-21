@@ -16,7 +16,7 @@ Alcest, Lacrimosa, World's End Girlfriend, 葬尸湖(Zuriaake), ChiliChill, 血�
 
 ## Live Attended
 
-2025/03/08@The UC Theatre Taube Family Music Hall: Alecest "Les Chants de l'Aurore" North American Tour 2025 (Guests: Kælan Mikla, MONO)
+2025/03/08@The UC Theatre Taube Family Music Hall: Alcest "Les Chants de l'Aurore" North American Tour 2025 (Guests: Kælan Mikla, MONO)
 
 2024/06/17@Beijing Fulang Livehouse: Wang Wen "All Yesterday's Parties" 25th Anniversary China Tour;
 *2024/06/17@北京福浪 Livehouse：惘闻“昨日的聚会”25周年中国巡演*
