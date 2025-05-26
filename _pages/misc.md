@@ -10,7 +10,7 @@ redirect_from:
 
 ## Favorite Bands
 
-Alcest, Lacrimosa, World's End Girlfriend, 葬尸湖(Zuriaake), ChiliChill, 血森林 (Bloody Woods), Ashram, Sonne Hagal, Current 93, Sol Invictus, Sopor Aeternus & the Ensemble of Shadows, deca joins, KAUAN, 文雀 (Sparrow), 惘闻 (Wang Wen), 缺省 (Default), Dead Can Dance, Heretoir, H.E.R.R., Tenhi, Die Form, Elend, sToa, God is an Astronaut, 万能青年旅店 (Omnipotent Youth Society), toe, MONO, Epitimia, April Rain, Argine
+Alcest, Lacrimosa, World's End Girlfriend, 葬尸湖(Zuriaake), ChiliChill, 血森林 (Bloody Woods), Ashram, Sonne Hagal, Current 93, Sopor Aeternus & the Ensemble of Shadows, deca joins, KAUAN, 文雀 (Sparrow), 惘闻 (Wang Wen), 缺省 (Default), Dead Can Dance, Heretoir, H.E.R.R., Tenhi, Die Form, Elend, sToa, God is an Astronaut, 万能青年旅店 (Omnipotent Youth Society), toe, MONO, Epitimia, April Rain, Argine
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7966BegBfkLv23vvqEjFt9?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
