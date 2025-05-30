@@ -4,6 +4,9 @@ title: "Seeking Participants for an Interview Study on ML-Powered System Safegua
 author_profile: true
 redirect_from:
   - /recruit
+  - /files/recruit
+  - /recruit.html
+  - /files/recruit.html
 ---
 
 We are researchers from Carnegie Mellon University conducting interviews to better understand how practitioners manage risks in systems that include ML models as components. During the interview, we will discuss:
@@ -14,7 +17,7 @@ We are researchers from Carnegie Mellon University conducting interviews to bett
 ## Eligibility
 
 - Age 18+
-- Experience building software/applications with ML model as components
+- Experience building software/applications with ML model as components \
   *No experience in safeguards or risk management is required. No expertise in developing/training ML model required. No confidential or proprietary information will be requested.*
 - Currently residing in the U.S.
 - Comfortable coding in Python
