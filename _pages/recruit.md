@@ -15,7 +15,7 @@ We’re researchers at Carnegie Mellon University studying how practitioners man
 
 1. **Sign-Up Survey** (≈ 5 minutes): Includes a consent form and questions about your background.
 2. **Interview Session** (60–90 minutes via Zoom):
-   - Share your perspectives on risks in:
+   - Share your thoughts on risks in:
      - A system we've developed
      - A system you've worked on with ML components
    - Audio and screen (not video) will be recorded
