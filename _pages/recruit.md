@@ -9,7 +9,7 @@ redirect_from:
   - /files/recruit.html
 ---
 
-We’re researchers at Carnegie Mellon University studying how practitioners manage risks in software systems or applications with machine learning (ML) components. We’d love to hear about your experiences in a one-on-one interview.
+We’re researchers at Carnegie Mellon University studying how practitioners manage risks in software systems or applications with machine learning (ML) components. We’d love to hear about and learn from your valuable experiences in a one-on-one interview.
 
 ## What to Expect
 
@@ -34,7 +34,6 @@ We’re researchers at Carnegie Mellon University studying how practitioners man
 
 - A $30 Amazon gift card
 - A chance to reflect on your work and contribute to research for safer ML systems
-
 
 ### Ready to participate? [Complete the sign-up survey](https://forms.gle/UqjFJ9f8eJod8V55A) and then [schedule your session](https://calendar.app.google/LZPnNuiph9uxR7ET7).
 
