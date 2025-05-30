@@ -18,7 +18,7 @@ We are researchers from Carnegie Mellon University conducting interviews to bett
 
 - Age 18+
 - Experience building software/applications with ML model as components \
-  *No experience in safeguards or risk management is required. No expertise in developing/training ML model required. No confidential or proprietary information will be requested.*
+  *No need for expertise in ML training, safeguards, or risk management. No confidential information required.*
 - Currently residing in the U.S.
 - Comfortable coding in Python
 - Comfortable communicating in English
