@@ -6,9 +6,6 @@ redirect_from:
   - /recruit
 ---
 
-
-# Seeking Participants for an Interview Study on ML-Powered System Safeguards
-
 We are researchers from Carnegie Mellon University conducting interviews to better understand how practitioners manage risks in systems that include machine learning components. During the interview, we will discuss:
 
 - A system we’ve developed
@@ -16,9 +13,9 @@ We are researchers from Carnegie Mellon University conducting interviews to bett
 
 ## Eligibility
 
-- 18 years or older
+- Age 18+
 - Experience working on software or applications with ML models and able to discuss that experience  
-  _*No experience in safeguards or risk management is required. No confidential or proprietary information will be requested.*_
+  *No experience in safeguards or risk management is required. No confidential or proprietary information will be requested.*
 - Currently residing in the U.S.
 - Comfortable coding in Python
 - Comfortable communicating in English
@@ -46,9 +43,7 @@ By taking part, you will:
      - A system you've worked on with ML components
    - Your responses will be kept confidential and anonymized
 
-**Ready to participate?**  
-[Complete the sign-up survey](https://forms.gle/UqjFJ9f8eJod8V55A) and then  
-[schedule your session](https://calendar.app.google/LZPnNuiph9uxR7ET7).
+### Ready to participate? [Complete the sign-up survey](https://forms.gle/UqjFJ9f8eJod8V55A) and then [schedule your session](https://calendar.app.google/LZPnNuiph9uxR7ET7).
 
 Have questions? We'd love to hear from you. Your insights are greatly appreciated!
 
