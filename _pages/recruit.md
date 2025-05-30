@@ -9,7 +9,7 @@ redirect_from:
   - /files/recruit.html
 ---
 
-We’re researchers at Carnegie Mellon University studying how practitioners manage risks in software systems or applications with machine learning (ML) components. We’d love to hear about and learn from your valuable experiences in a one-on-one interview.
+We’re researchers at Carnegie Mellon University studying how practitioners manage risks in software systems or applications with machine learning (ML) components. **We’d love to hear about and learn from your valuable experiences in a one-on-one interview.**
 
 ## What to Expect
 
