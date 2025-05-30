@@ -32,16 +32,15 @@ You will receive a $30 Amazon gift card upon completing the interview.
 By taking part, you will:
 
 - Contribute to research on improving the safety and security of ML-powered systems
-- Gain insights into practical safeguards for ML applications
-- Reflect on your own approaches to risk mitigation
-- Learn about emerging safeguarding methods in ML
+- Reflect on your own experiences building ML-powered systems
+- Gain insights into safeguards in practice for ML-powered systems
 
 ## What to Expect
 
-1. **Sign-Up Survey** (Approx. 5 minutes): Includes a consent form and questions about your background.
+1. **Sign-Up Survey** (≈ 5 minutes): Includes a consent form and questions about your background.
 2. **Interview Session** (60–90 minutes via Zoom):
    - Audio and screen (not video) will be recorded
-   - You'll discuss safeguards for:
+   - Share your perspectives on risks in:
      - A system we've developed
      - A system you've worked on with ML components
    - Your responses will be kept confidential and anonymized
