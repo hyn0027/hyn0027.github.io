@@ -6,7 +6,7 @@ redirect_from:
   - /recruit
 ---
 
-We are researchers from Carnegie Mellon University conducting interviews to better understand how practitioners manage risks in systems that include machine learning components. During the interview, we will discuss:
+We are researchers from Carnegie Mellon University conducting interviews to better understand how practitioners manage risks in systems that include ML models as components. During the interview, we will discuss:
 
 - A system we’ve developed
 - A system you've worked on that includes ML components
@@ -14,8 +14,8 @@ We are researchers from Carnegie Mellon University conducting interviews to bett
 ## Eligibility
 
 - Age 18+
-- Experience working on software or applications with ML models and able to discuss that experience  
-  *No experience in safeguards or risk management is required. No confidential or proprietary information will be requested.*
+- Experience building software/applications with ML model as components
+  *No experience in safeguards or risk management is required. No expertise in developing/training ML model required. No confidential or proprietary information will be requested.*
 - Currently residing in the U.S.
 - Comfortable coding in Python
 - Comfortable communicating in English
@@ -50,5 +50,4 @@ Have questions? We'd love to hear from you. Your insights are greatly appreciate
 **Yining Hong**  
 School of Computer Science  
 Carnegie Mellon University  
-[yhong3@andrew.cmu.edu](mailto:yhong3@andrew.cmu.edu)  
-[https://hyn0027.github.io/](https://hyn0027.github.io/)
+[yhong3@andrew.cmu.edu](mailto:yhong3@andrew.cmu.edu)
