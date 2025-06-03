@@ -9,6 +9,15 @@ redirect_from:
   - /files/recruit.html
 ---
 
+## TL;DR
+
+We’re CMU researchers studying how engineers manage risks in software/applications with ML components. If you code in Python and have worked on any parts of a software/application with ML model as components, we’d love to interview you! You’ll get a $30 Amazon gift card for your time.
+
+👉 [Sign up here](https://forms.gle/UqjFJ9f8eJod8V55A) (5 min)
+📅 [Schedule your session](https://calendar.app.google/LZPnNuiph9uxR7ET7) (Zoom, 60–90 min)
+
+⸻
+
 We’re researchers at Carnegie Mellon University studying how practitioners manage risks in software systems or applications with machine learning (ML) components. **We’d love to hear about and learn from your valuable experiences in a one-on-one interview.**
 
 ## What to Expect
