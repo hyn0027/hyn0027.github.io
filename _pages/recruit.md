@@ -16,7 +16,7 @@ We’re CMU researchers studying how engineers manage risks in software/applicat
 👉 [Sign up here](https://forms.gle/UqjFJ9f8eJod8V55A) (5 min)
 📅 [Schedule your session](https://calendar.app.google/LZPnNuiph9uxR7ET7) (Zoom, 60–90 min)
 
-⸻
+---
 
 We’re researchers at Carnegie Mellon University studying how practitioners manage risks in software systems or applications with machine learning (ML) components. **We’d love to hear about and learn from your valuable experiences in a one-on-one interview.**
 
