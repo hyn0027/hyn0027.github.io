@@ -13,7 +13,7 @@ redirect_from:
 
 **TL;DR**: We’re CMU researchers studying how engineers manage risks in software/applications with ML components. If you ***code in Python*** and ***have worked on any parts of a software/application with ML model as components***, we’d love to interview you! You’ll get a ***$30 Amazon gift card*** for your time.
 
-👉 [Sign up here](https://forms.gle/UqjFJ9f8eJod8V55A) (5 min) and 📅 [Schedule your session](https://calendar.app.google/LZPnNuiph9uxR7ET7) (Zoom, 60–90 min)
+👉 [Sign up here](https://forms.gle/SbsSBUKyZ8FpdJjQ7) (5 min) and 📅 [Schedule your session](https://calendar.app.google/LZPnNuiph9uxR7ET7) (Zoom, 60–90 min)
 
 ---
 
@@ -22,7 +22,6 @@ We’re researchers at Carnegie Mellon University studying how practitioners man
 ## What to Expect
 
 1. **Sign-Up Survey** (≈ 5 minutes): Includes a consent form and questions about your background.
-2. **Interview Session** (60–90 minutes via Zoom):
    - Share your thoughts on risks in:
      - A system we've developed
      - A system you've worked on with ML components
@@ -43,7 +42,7 @@ We’re researchers at Carnegie Mellon University studying how practitioners man
 - A $30 Amazon gift card
 - A chance to reflect on your work and contribute to research for safer ML systems
 
-### Ready to participate? [Complete the sign-up survey](https://forms.gle/UqjFJ9f8eJod8V55A) and then [schedule your session](https://calendar.app.google/LZPnNuiph9uxR7ET7).
+### Ready to participate? [Complete the sign-up survey](https://forms.gle/SbsSBUKyZ8FpdJjQ7) and then [schedule your session](https://calendar.app.google/LZPnNuiph9uxR7ET7).
 
 Have questions? We'd love to hear from you. Your insights are greatly appreciated!
 
