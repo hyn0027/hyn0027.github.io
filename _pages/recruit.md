@@ -1,6 +1,6 @@
 ---
 permalink: /recruit/
-title: "Seeking Participants for an Interview Study on ML-Powered System Safeguards"
+title: "Call for Participants: Interview Study on Monitoring ML Applications"
 author_profile: true
 redirect_from:
   - /recruit
@@ -11,38 +11,37 @@ redirect_from:
 
 ---
 
-**TL;DR**: We’re CMU researchers studying how engineers manage risks in software/applications with ML components. If you ***code in Python*** and ***have worked on any parts of a software/application with ML model as components***, we’d love to interview you! You’ll get a ***$30 Amazon gift card*** for your time.
+**TL;DR**: We are researchers from Carnegie Mellon University studying practices and challenges in MLOps, particularly interested in how engineers design and maintain monitors in software/applications that include ML components. **We’d love to learn from your experiences through a one-on-one interview.**
 
-👉 [Sign up here](https://forms.gle/SbsSBUKyZ8FpdJjQ7) (5 min) and 📅 we will schedule your session (Zoom, 60–90 min)
+👉 [Sign up here](https://forms.gle/mWfv39RJVBKwc32s9) (5 min) and  we will schedule your session (Zoom, 30-60 min)
 
 ---
 
-We’re researchers at Carnegie Mellon University studying how practitioners manage risks in software systems or applications with machine learning (ML) components. **We’d love to hear about and learn from your valuable experiences in a one-on-one interview.**
+We are researchers from Carnegie Mellon University studying how practitioners design and maintain monitors in software systems that include machine learning (ML) components. **We’d love to learn from your experiences through a one-on-one interview.**
 
 ## What to Expect
 
-1. **Sign-Up Survey** (≈ 5 minutes): Includes a consent form and questions about your background.
-   - Share your thoughts on risks in:
-     - A system we've developed
-     - A system you've worked on with ML components
-   - Audio and screen (not video) will be recorded
-   - Your responses will be kept confidential and anonymized
+1. Sign-up Survey (~5min):
+ - Includes a consent form and questions about your background.
+2. Interview (30~60min, depending on your availability):
+ - Topics Covered:
+  1. General practices in building and maintaining monitors (10–15 min)
+  2. Discussion of example monitor designs (20–40 min)
+ - Audio (not video) will be recorded
+ - All information will be kept confidential and anonymized
 
 ## Who Can Participate
 
 - Age 18+
-- Experience building software/applications with ML model as components \
-  *No need for expertise in ML training, safeguards, or risk management. No confidential information required.*
-- Currently residing in the U.S.
-- Comfortable coding in Python
-- Comfortable communicating in English
+- Have experience working on monitors for software systems or applications with ML component
+ 	- We’ll discuss your experience, but no confidential information is required
+- Would communicate in English
 
 ## What You’ll Get
 
-- A $30 Amazon gift card
-- A chance to reflect on your work and contribute to research for safer ML systems
+- A chance to share your insights and contribute to research aimed at improving ML systems
 
-### Ready to participate? [Complete the sign-up survey](https://forms.gle/SbsSBUKyZ8FpdJjQ7) and we will schedule your session.
+### Ready to participate? [Complete the sign-up survey](https://forms.gle/mWfv39RJVBKwc32s9) and we will schedule your session!
 
 Have questions? We'd love to hear from you. Your insights are greatly appreciated!
 
