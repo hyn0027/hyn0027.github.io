@@ -22,19 +22,20 @@ We are researchers from Carnegie Mellon University studying how practitioners de
 ## What to Expect
 
 1. Sign-up Survey (~5min):
- - Includes a consent form and questions about your background.
+    - Includes a consent form and questions about your background.
+
 2. Interview (30~60min, depending on your availability):
- - Topics Covered:
-    - General practices in building and maintaining monitors (10–15 min)
-    - Discussion of example monitor designs (20–40 min)
- - Audio (not video) will be recorded
- - All information will be kept confidential and anonymized
+    - Topics Covered:
+        - General practices in building and maintaining monitors (10–15 min)
+        - Discussion of example monitor designs (20–40 min)
+    - Audio (not video) will be recorded
+    - All information will be kept confidential and anonymized
 
 ## Who Can Participate
 
 - Age 18+
 - Have experience working on monitors for software systems or applications with ML component
- 	*(We’ll discuss your experience, but no confidential information is required)*
+  *(We’ll discuss your experience, but no confidential information is required)*
 - Would communicate in English
 
 ## What You’ll Get
