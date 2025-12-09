@@ -17,6 +17,8 @@ I also undertook a summer research internship at CMU's [Software and Societal Sy
 
 # Publications
 
+Aarya Doshi, **Yining Hong**, Congying Xu, Eunsuk Kang, Alexandros Kapravelos, Christian Kästner. **Towards Verifiably Safe Tool Use for LLM Agents**. Accepted at *International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER)*, April 2026.
+
 **Yining Hong**, Christopher S. Timperley, Christian Kästner. **From Hazard Identification to Controller Design: Proactive and LLM-Supported Safety Engineering for ML-Powered Systems**. In *Proceedings of the International Conference on AI Engineering - Software Engineering for AI (CAIN)*, April 2025. [\[.pdf\]](http://hyn0027.github.io/files/From_Hazard_Identification_to_Controller_Design.pdf)
 
 Chenyang Yang, **Yining Hong**, Grace Lewis, Tongshuang Wu, and Christian Kästner. **What Is Wrong with My Model? Identifying Systematic Problems with Semantic Data Slicing**. In *Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE)*, Los Alamitos, CA: IEEE Computer Society, November 2024. [\[.pdf\]](http://hyn0027.github.io/files/What_is_Wrong_with_My_Model.pdf)
