@@ -9,7 +9,7 @@ redirect_from:
   - /About.html
 ---
 
-I am a second year PhD student at [Software and Societal Systems Department](https://s3d.cmu.edu/), [School of Computer Science](https://www.cs.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/), co-advised by [Christian Kästner](https://www.cs.cmu.edu/~ckaestne/) and [Chris Timperley](https://chris.timperley.info/). I work on safety and security for ML-enabled systems.
+I am a second year PhD student at [Software and Societal Systems Department](https://s3d.cmu.edu/), [School of Computer Science](https://www.cs.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/), co-advised by [Christian Kästner](https://www.cs.cmu.edu/~ckaestne/) and [Chris Timperley](https://chris.timperley.info/). I work on safety/security for software with ML/LLM-Agent components, and AI for software safety/security.
 
 Before joining CMU, I received my B.Eng. in Computer Science and B.Ec. in Economics and Finance at [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I was fortunate to be advised by Prof. [Maosong Sun](https://scholar.google.com.au/citations?hl=en&user=zIgT0HMAAAAJ) and Prof. [Junliang Xing](https://pi.cs.tsinghua.edu.cn/lab/people/jlxing/en/).
 
