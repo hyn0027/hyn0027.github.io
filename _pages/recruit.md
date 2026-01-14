@@ -13,7 +13,7 @@ redirect_from:
 
 **TL;DR**: We are researchers from Carnegie Mellon University studying practices and challenges in MLOps, particularly interested in how engineers design and maintain monitors in software/applications that include ML components. **We’d love to learn from your experiences through a one-on-one interview.**
 
-👉 [Sign up here](https://forms.gle/mWfv39RJVBKwc32s9) (5 min) and  we will schedule your session (Zoom, 30-60 min)
+👉 [Sign up here](https://forms.gle/3e82oLc9ed9QFNeK7) (5 min) and we will schedule your session (Zoom, 30-60 min)
 
 ---
 
