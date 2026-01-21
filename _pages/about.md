@@ -28,5 +28,3 @@ Chenyang Yang, **Yining Hong**, Grace Lewis, Tongshuang Wu, and Christian Kästn
 # Teaching Experience
 
 I was a volunteer teaching assistant at the [Center for Student Learning and Development](https://learning.tsinghua.edu.cn/zxgk/ywjs.htm) at Tsinghua University. I offered drop-in tutoring for computer science and finance courses.
-
-
