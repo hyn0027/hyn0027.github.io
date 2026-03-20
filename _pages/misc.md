@@ -8,6 +8,12 @@ redirect_from:
   - /Misc.html
 ---
 
+## Meet Geo
+
+<!-- ![alt text](/images/geo.jpg) -->
+
+<img src="/images/geo.jpg" alt="Image" width="200">
+
 ## Favorite Bands
 
 Alcest, Lacrimosa, World's End Girlfriend, 葬尸湖(Zuriaake), ChiliChill, 血森林 (Bloody Woods), Ashram, Sonne Hagal, Current 93, Sol Invictus, Sopor Aeternus & the Ensemble of Shadows, deca joins, KAUAN, 文雀 (Sparrow), 惘闻 (Wang Wen), 缺省 (Default), Dead Can Dance, Heretoir, H.E.R.R., Tenhi, ROME, Die Form, Elend, sToa, God is an Astronaut, 万能青年旅店 (Omnipotent Youth Society), toe, MONO, Epitimia, April Rain, Argine
