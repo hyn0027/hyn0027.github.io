@@ -8,11 +8,11 @@ redirect_from:
   - /Misc.html
 ---
 
-## Meet Geo
+## Meet Geo!
 
 <!-- ![alt text](/images/geo.jpg) -->
 
-<img src="/images/geo.jpg" alt="Image" width="200">
+<img src="/images/geo.jpg" alt="Image" width="500">
 
 ## Favorite Bands
 
