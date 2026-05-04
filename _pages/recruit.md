@@ -13,7 +13,7 @@ redirect_from:
 
 **TL;DR**: We are researchers from Carnegie Mellon University studying practices and challenges in MLOps, particularly interested in how engineers design and maintain monitors in software/applications that include ML components. **We’d love to learn from your experiences through a one-on-one interview.**
 
-👉 [Sign up here](https://forms.gle/3e82oLc9ed9QFNeK7) (5 min) and we will schedule your session (Zoom, 30-60 min)
+👉 [Sign up here](https://forms.gle/VHzd8mLGh6TuniHL8) (5 min) and we will schedule your session (Zoom, 30-60 min)
 
 ---
 
@@ -42,11 +42,11 @@ We are researchers from Carnegie Mellon University studying how practitioners de
 
 - A chance to share your insights and contribute to research aimed at improving ML systems
 
-### Ready to participate? [Complete the sign-up survey](https://forms.gle/mWfv39RJVBKwc32s9) and we will schedule your session!
+### Ready to participate? [Complete the sign-up survey](https://forms.gle/VHzd8mLGh6TuniHL8) and we will schedule your session!
 
 Have questions? We'd love to hear from you. Your insights are greatly appreciated!
 
-**Yining Hong**  
+Yining and Nadia
 School of Computer Science  
 Carnegie Mellon University  
 [yhong3@andrew.cmu.edu](mailto:yhong3@andrew.cmu.edu)
