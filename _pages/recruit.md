@@ -46,7 +46,7 @@ We are researchers from Carnegie Mellon University studying how practitioners de
 
 Have questions? We'd love to hear from you. Your insights are greatly appreciated!
 
-Yining and Nadia
+Yining and Nadia    
 School of Computer Science  
 Carnegie Mellon University  
 [yhong3@andrew.cmu.edu](mailto:yhong3@andrew.cmu.edu)
